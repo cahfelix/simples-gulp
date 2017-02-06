@@ -1,7 +1,7 @@
 # Simples Gulp
-Esse repositório tem intuito de disponibilizar um arquivo simples de gulp para projetos em sass, gerando css, minificando e definindo padronizações.
+Esse repositório tem intuito de disponibilizar um arquivo simples de gulp para projetos em sass, gerando css, minificando e definindo padronizações
 
-## Observações
+## Observaçoes
 Se necessário, execute os comandos com sudo
 Os comandos devem ser executados na mesma pasta onde se encontra esse arquivo
 
@@ -27,6 +27,24 @@ npm install
 Rode o Gulp
 ```
 gulp watch
+```
+
+
+## Estrutura de arquivos
+```
+simples-gulp
+├── README.md
+├── index.html
+├── package.json
+├── gulpfile.js
+├── assets
+│   ├── img
+│   ├── css
+│   │   └── style.css
+│   └── sass
+│   	└── style.scss
+└── package.json
+
 ```
 
 ## Autor ##
