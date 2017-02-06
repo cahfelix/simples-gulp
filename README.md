@@ -9,6 +9,24 @@ Os comandos devem ser executados na mesma pasta onde se encontra esse arquivo
 - NodeJS
 - Caso nao tenha instale o nodejs através do link: [NodeJS via Package Manager](https://github.com/joyent/node/wiki/installing-node.js-via-package-manager)
 
+
+## Estrutura de arquivos
+```
+simples-gulp
+├── README.md
+├── index.html
+├── package.json
+├── gulpfile.js
+├── assets
+│   ├── img
+│   ├── css
+│   │   └── style.css
+│   └── sass
+│   	└── style.scss
+└── package.json
+
+```
+
 ## Vamos lá
 Baixe o projeto
 ```
@@ -30,22 +48,6 @@ gulp watch
 ```
 
 
-## Estrutura de arquivos
-```
-simples-gulp
-├── README.md
-├── index.html
-├── package.json
-├── gulpfile.js
-├── assets
-│   ├── img
-│   ├── css
-│   │   └── style.css
-│   └── sass
-│   	└── style.scss
-└── package.json
-
-```
 
 ## Autor ##
  * Cah Felix
