@@ -2,8 +2,8 @@
 Esse repositório tem intuito de disponibilizar um arquivo simples de gulp para projetos em sass, gerando css, minificando e definindo padronizações
 
 ## Observaçoes
-Se necessário, execute os comandos com sudo
-Os comandos devem ser executados na mesma pasta onde se encontra esse arquivo
+- Se necessário execute os comandos com sudo
+- Os comandos devem ser executados na mesma pasta onde se encontra esse arquivo
 
 ## Requisitos
 - NodeJS
