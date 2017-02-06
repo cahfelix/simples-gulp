@@ -7,7 +7,7 @@ Esse repositório tem intuito de disponibilizar um arquivo simples de gulp para 
 
 ## Requisitos
 - NodeJS
-- Caso nao tenha instale o nodejs através do link: [NodeJS via Package Manager](https://github.com/joyent/node/wiki/installing-node.js-via-package-manager)
+- Caso nao tenha instale o nodejs através do link: [NodeJS via Package Manager](https://nodejs.org/en/download/package-manager/)
 
 
 ## Estrutura de arquivos
