@@ -6,8 +6,7 @@ Esse repositório tem intuito de disponibilizar um arquivo simples de gulp para 
 - Os comandos devem ser executados na mesma pasta onde se encontra esse arquivo
 
 ## Requisitos
-- NodeJS
-- Caso nao tenha instale o nodejs através do link: [NodeJS via Package Manager](https://nodejs.org/en/download/package-manager/)
+- NodeJS - Caso nao tenha instale o nodejs através do link: [NodeJS via Package Manager](https://nodejs.org/en/download/package-manager/)
 
 - Gulp 
 ```
