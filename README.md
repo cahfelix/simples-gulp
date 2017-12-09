@@ -9,6 +9,11 @@ Esse repositório tem intuito de disponibilizar um arquivo simples de gulp para 
 - NodeJS
 - Caso nao tenha instale o nodejs através do link: [NodeJS via Package Manager](https://nodejs.org/en/download/package-manager/)
 
+- Gulp 
+```
+sudo npm install -g gulp
+```
+
 
 ## Estrutura de arquivos
 ```
